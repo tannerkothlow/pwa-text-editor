@@ -22,7 +22,7 @@ module.exports = () => {
         title: 'JATE'
       }),
 
-      new GenerateSW(),
+      // new GenerateSW(),
 
       new WebpackPwaManifest({
         name: 'Just Another Text Editor',
