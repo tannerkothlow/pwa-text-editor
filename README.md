@@ -6,6 +6,6 @@
 
 - src-sw.js (basic function may not work)
 
-- install.js
+- install.js (boilerplate applied)
 
 - database.js
