@@ -2,7 +2,7 @@
 
 ## TO DO: In order of importance
 
-- webpack.config (dont but not tested)
+- webpack.config (tested, builds correctly)
 
 - src-sw.js (basic function may not work)
 
