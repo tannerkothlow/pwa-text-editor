@@ -8,4 +8,4 @@
 
 - install.js (boilerplate applied)
 
-- database.js
+- database.js (get and post route made)
