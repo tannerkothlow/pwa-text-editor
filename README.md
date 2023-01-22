@@ -4,6 +4,8 @@
 
 - webpack.config
 
+- src-sw.js
+
 - install.js
 
 - database.js
