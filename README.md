@@ -2,10 +2,10 @@
 
 ## TO DO: In order of importance
 
-- webpack.config (tested, builds correctly)
+- webpack.config (99% Certain Fine)
 
-- src-sw.js (basic function may not work)
+- src-sw.js (Disabled my code for now)
 
 - install.js (boilerplate applied)
 
-- database.js (get and post route made)
+- database.js (Disabled for now)
