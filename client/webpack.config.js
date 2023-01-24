@@ -25,6 +25,8 @@ module.exports = () => {
       // new GenerateSW(),
 
       new WebpackPwaManifest({
+        fingerprints: false,
+        inject: true,
         name: 'Just Another Text Editor',
         short_name: 'J.A.T.E.',
         description: 'Takes notes with JavaScript stynax highlighting!',
