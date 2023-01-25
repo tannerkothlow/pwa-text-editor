@@ -18,7 +18,19 @@ To download the project for testing or reference, run `npm install` in the root 
 
 ## Usage
 
-- Usage instructions.
+- landing page
+
+![landing-page](./project/images/jate-landing-page.PNG)
+
+- typing in the text editor 
+
+![typing](./project/images/jate-type-console.PNG)
+
+- install button
+
+![installed-caches](./project/images/jate-caches.PNG)
+
+![installed-asset-cache](./project/images/cached-install.PNG)
 
 ## License
 
