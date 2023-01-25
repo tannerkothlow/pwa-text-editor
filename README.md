@@ -2,7 +2,7 @@
 
 ## Description
 
-Project description.
+For the 19th week in our coding bootcamp we were tasked with configuring a webpack file along with a service worker for a partially complete web based text editor. We were to utilize Webpack and a number of its plugins to bundle a development build into something much more condensed, and these packaged files were to be cached at the user's request using an InjectManifest service worker. Finally, the actual content of the text editor was stored using IndexedDB.
 
 ## Installation
 
