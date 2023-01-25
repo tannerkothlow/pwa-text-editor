@@ -18,15 +18,19 @@ To download the project for testing or reference, run `npm install` in the root 
 
 ## Usage
 
-- landing page
+- Upon loading the app, a placeholder logo will occupy the first few lines. Feel free to clear it from the editor.
 
 ![landing-page](./project/images/jate-landing-page.PNG)
 
-- typing in the text editor 
+- To enter text, simply click the start of a line and begin typing as if it were any other text editor.
+
+- Your entries will be automatically saved using IndexedDB in local storage. Whatever you enter will persist between reloads.
 
 ![typing](./project/images/jate-type-console.PNG)
 
-- install button
+- To install app assets in a cache, click the `Install!` button and confirm any following prompts.
+
+- You can view the asset cache using Chrome dev tools.
 
 ![installed-caches](./project/images/jate-caches.PNG)
 
